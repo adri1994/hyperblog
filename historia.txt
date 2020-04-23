@@ -2,5 +2,6 @@ Esta es la historia de Adrian
 
 Adrian esta aprendiendo git
 
-Hoy hablaremos de su vida y obra maestra. Tiene 33 años. Nacio en
-Ecuador viviendo en todo el mundo
+Hoy hablaremos de su historia
+
+Mañana nos enfocaremos en su vida laboral
